@@ -1,0 +1,18 @@
+# Comandos básicos de Git ###
+'''
+
+git init #Con este comando iniciamos un proyecto git en el directorio donde estemos ubicados. Esto crea el archivo oculto: .git
+
+Flujo de trabajo en git:
+
+_______________________________________________________________________________________
+   Computador    |          Stage          |         Commit          |     Server     |     
+_______________________________________________________________________________________
+Ubicación		    archivos seleccionados     Archivos de commit          github
+inicial             que eventualmente		   que ya están listos         
+del archivo         serán comprometidos,       para subir a git.
+                    pueden ser archivos
+                    modificados o que quiero
+                    eliminar
+_______________________________________________________________________________________
+
