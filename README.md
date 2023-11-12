@@ -3,8 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/JoelRodriguez999/AWSRestart-PythonLab?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/JoelRodriguez999/AWSRestart-PythonLab?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/JoelRodriguez999/AWSRestart-PythonLab?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/JoelRodriguez999/AWSRestart-PythonLab?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/JoelRodriguez999/AWSRestart-PythonLab?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/JoelRodriguez999/AWSRestart-PythonLab?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/JoelRodriguez999/AWSRestart-PythonLab?style=for-the-badge)
 
 <img src="imagePythonAws.png">
 
