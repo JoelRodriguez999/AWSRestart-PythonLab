@@ -17,7 +17,7 @@
 
 ### Instrucciones de Uso
 
-- No es necesario instalar nada, ya que cada laboratorio es un archivo .py independiente.
+- No son necesarias instalaciones adicionales, cada laboratorio es un archivo .py independiente.
 - Puedes ejecutar los archivos en Cloud9, VScode u otro entorno de desarrollo Python.
 
 ## 📝 Licencia
