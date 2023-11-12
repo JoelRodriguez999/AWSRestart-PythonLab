@@ -8,7 +8,7 @@
 
 <img src="imagePythonAws.png">
 
-> Breve descripción del proyecto. Asegúrate de destacar que es una colección de 12 archivos `.py` que contienen los laboratorios prácticos del programa AWS Restart, enfocándose en el aprendizaje de Python en el entorno de la nube de AWS.
+> **AWSRestart-PythonLab** es una colección de códigos en Python diseñados específicamente para el programa AWS Restart. Este repositorio contiene 13 archivos `.py`, cada uno correspondiente a un laboratorio práctico del programa, centrado en la enseñanza y aplicación de Python en el entorno de la nube de AWS.
 
 ### Requisitos Previos
 
@@ -17,13 +17,11 @@
 
 ### Instrucciones de Uso
 
-1. **Clonar Repositorio:**
-   ```bash
-   git clone https://github.com/TU_USUARIO/AWSRestart-PythonLab.git
+- No es necesario instalar nada, ya que cada laboratorio es un archivo .py independiente.
+- Puedes ejecutar los archivos en Cloud9, VScode u otro entorno de desarrollo Python.
 
+## 📝 Licencia
 
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Este proyecto no está sujeto a ninguna licencia específica. Puedes usar, modificar y distribuir el código según tus necesidades.
 
 
